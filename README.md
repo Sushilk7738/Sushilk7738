@@ -2,9 +2,9 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋+I'am+Vishal+Lokhande+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋+I'am+Sushil+Kamble+!;" />
 </h1>
-<h3 align="center">A Passionate Web Devloper</h3>
+<h3 align="center">A Passionate Web Devloper</h3> 
 
 - 🔭 I’m currently working on **Front-End**
 
