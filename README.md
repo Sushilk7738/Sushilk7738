@@ -8,20 +8,20 @@
 
 - 🔭 I’m currently working on **Front-End**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at   = https://github.com/Vishallokhande8788?tab=repositories
+- 👨‍💻 All of my projects are available at   = https://github.com/Sushilk7738?tab=repositories
 
-- 💬 Ask me about **React.js , Javascript , Frontend**
+- 💬 Ask me about **HTML , CSS , Frontend**
 
-- 📫 How to reach me **vishallokhande8788@gmail.com**
+- 📫 How to reach me **Sushilkamble7738@gmail.com**
 
 - ⚡ Fun fact **My notes are filled with tons of smileys**
 
 ---
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vishallokhande8788&label=Profile%20views&color=0e75b6&style=flat" alt="vishallokhande8788"  height="40px" width="200"/> </p>
+<p align="center"> <img src=""D:\Portfolio\Images\dp.jpg"" alt="SushilKamble7738"  height="40px" width="200"/> </p>
 <h2 align="center">🌟 Technologies I work with  🌟</h2>
 
 
@@ -155,19 +155,19 @@
 
 <h2 align="center">🤝 Connect with Me 🤝</h2>
 <p align="center" style="transform: scale(1.25); display: inline-block;">
-  <a href="https://www.facebook.com/vishal.lokhande.9809" target="blank">
+  <a href="https://www.facebook.com/Sushil kamble" target="blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://wa.me/9370740100" target="blank">
+  <a href="https://wa.me/9324685036" target="blank">
     <img src="https://img.shields.io/badge/WhatsApp-%25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/vishal_lokhande_111/" target="blank">
+  <a href="https://www.instagram.com/_sushil_kamble_/" target="blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/vishal-lokhande-96370333a/" target="blank">
+  <a href="https://www.linkedin.com/in/sushil-kamble-137585233" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:vishallokhande8788@gmail.com" target="blank">
+  <a href="mailto:sushilkamble7738@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
  
@@ -192,11 +192,11 @@
 ### 📈 GitHub Stats:
 Here’s a quick overview of my GitHub activity, including my top repositories, contributions, and more:
 
-![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishallokhande8788&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+![Sushil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sushilk7738hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
 
 ---
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishallokhande8788&show_icons=true&locale=en&layout=compact" alt="vishallokhande8788" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sushilk7738&show_icons=true&locale=en&layout=compact" alt="Sushilk7738" />
 
 ---
 
