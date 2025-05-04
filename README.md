@@ -1,7 +1,7 @@
 <!-- Profile Banner -->
 <h1 align="center">
   <p align="center">
-  <img src="https://github.com/Sushilk7738/Sushilk7738/raw/main/dp.jpg" width="150" height="180" style="border-radius: 50%;" alt="Sushil Kamble" />
+  <img src="https://github.com/Sushilk7738/Sushilk7738/raw/main/dp.jpg" width="150" height="150" style="border-radius: 50%;" alt="Sushil Kamble" />
 </p>
 
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋+I'm+Sushil+Kamble!;" />
