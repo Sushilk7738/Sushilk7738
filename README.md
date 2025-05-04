@@ -73,7 +73,7 @@
 ---
 
 > 💡 Tip: To add your profile image at the top, upload `dp.jpg` to your GitHub repository or use a hosted link and embed like this:  
-> `<img src="https://your-image-host.com/dp.jpg" width="150" height="150" align="center"/>`
+> <img src="https://your-image-host.com/dp.jpg" width="150" height="150" align="center"/>
 
 ---
 
