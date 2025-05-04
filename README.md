@@ -1,7 +1,7 @@
 <!-- Profile Banner -->
 <h1 align="center">
   <p align="center">
-  <img src="https://github.com/Sushilk7738/Sushilk7738/raw/main/dp.jpg" width="150" height="150" style="border-radius: 50%;" alt="Sushil Kamble" />
+  <img src="https://github.com/Sushilk7738/Sushilk7738/raw/main/dp.jpg" width="250" height="50" style="border-radius: 50%;" alt="Sushil Kamble" />
 </p>
 
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋+I'm+Sushil+Kamble!;" />
@@ -77,7 +77,7 @@
 ---
 
 > 💡 Tip: To add your profile image at the top, upload `dp.jpg` to your GitHub repository or use a hosted link and embed like this:  
-> <img src="https://your-image-host.com/dp.jpg" width="150" height="150" align="center"/>
+> <img src="https://github.com/Sushilk7738/Sushilk7738/raw/main/dp.jpg" width="150" height="150" align="center"/>
 
 ---
 
