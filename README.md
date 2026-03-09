@@ -1,84 +1,119 @@
-<!-- Profile Banner -->
 <h1 align="center">
-  <p align="center">
-  <img src="https://github.com/Sushilk7738/Sushilk7738/raw/main/dp.jpg" width="150" height="150" style="border-radius: 50%;" alt="Sushil Kamble" />
-</p>
-
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋+I'm+Sushil+Kamble!;" />
 </h1>
 
-<h3 align="center">A Passionate Full Stack Python Developer</h3>
+<h3 align="center">💻 Full-Stack Python Developer | Based in Mumbai, India</h3>
+
+<br />
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Sushilk7738&label=Profile%20views&color=0e75b6&style=flat" height="40px" width="200"/>
+</p>
+
+<div align="center">
+  
+📧 **Email:** sushilkamble7738@gmail.com •  
+📱 **Phone No:** +91 9324685036
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+# 🚀 About Me
 
-- 🔭 I’m currently working on **Front-End Projects**
-- 🌱 I’m learning **Python** and exploring Back-End Development
-- 💬 Ask me about **HTML, CSS, JavaScript, and Front-End Tools**
-- 📫 Reach me at: **sushilkamble7738@gmail.com**
-- ⚡ Fun fact: _"My notes are filled with tons of smileys 😄"_
+- 🔭 Currently working on **Front-End Web Projects**
+- 🌱 Learning **Python & Backend Development**
+- 💡 Interested in **Web Applications**, **UI/UX**, and **Modern Web Tools**
+- ⚡ Fun fact: *My notes are filled with smileys 😄*
+- 📍 Based in **Mumbai, India**
 
 ---
 
-## 🛠️ Skills & Technologies
+# 🛠️ Tech Stack
 
-### Languages
-![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+## ⚙️ Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Front-End & Tools
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+## ⚙️ Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sushilk7738&show_icons=true&theme=radical&hide_border=true" alt="Sushil's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushilk7738&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+## ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🏆 GitHub Trophies
+# 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sushilk7738&theme=radical&no-frame=true&row=1&margin-w=10" alt="Trophies" />
-</p>
+<div align="center">
 
----
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sushilk7738&show_icons=true&theme=radical&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushilk7738&layout=compact&theme=radical&hide_border=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sushilk7738&theme=radical&hide_border=true) |
+|:---:|:---:|:---:|
 
-## 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sushil-kamble-137585233" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/_sushil_kamble_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://wa.me/9324685036" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="mailto:sushilkamble7738@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+</div>
 
 ---
 
-> 💡 Tip: To add your profile image at the top, upload `dp.jpg` to your GitHub repository or use a hosted link and embed like this:  
-> <img src="https://github.com/Sushilk7738/Sushilk7738/raw/main/dp.jpg" width="150" height="150" align="center"/>
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Sushilk7738&theme=radical&no-frame=true&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
-Let me know if you want to **add a project showcase, animation, visitor counter**, or anything else! fix this
+# 🌱 Contribution Graph
+
+<div align="center">
+  
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sushilk7738&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+</div>
+
+---
+
+# 📌 Featured Projects
+
+### 🌐 Portfolio Website
+Personal portfolio website built using **HTML, CSS, and JavaScript**
+
+### 🌦️ Weather App
+Weather application that shows **real-time weather updates using API**
+
+### 📝 To-Do List App
+A simple **task management web application** built with **JavaScript**
+
+### 📰 News App
+A **news website** that fetches live news using **API integration**
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushil-kamble-137585233)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_sushil_kamble_/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sushilkamble7738@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9324685036)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Random Developer Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+</div>
+
+---
+
+<p align="center">✨ Thanks for visiting my profile! Have a great day 😄</p>
