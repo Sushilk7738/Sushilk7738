@@ -91,7 +91,7 @@ Users can browse products, view details, and experience a clean shopping UI.
 ### ✅ TaskMe - To-Do App
 A simple and efficient **task management web application** that allows users to **add, delete, and manage daily tasks**.
 
-🔗 Live Demo: https://taskme-app.netlify.app/---
+🔗 Live Demo: https://taskme-app.netlify.app/
 
 # 🤝 Let's Connect
 
