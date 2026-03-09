@@ -80,19 +80,18 @@
 
 # 📌 Featured Projects
 
-### 🌐 Portfolio Website
-Personal portfolio website built using **HTML, CSS, and JavaScript**
+### 🛒 Shoppers Ecommerce Website
+A responsive **Ecommerce web application** built using **HTML, CSS, JavaScript, and Bootstrap**.  
+Users can browse products, view details, and experience a clean shopping UI.
 
-### 🌦️ Weather App
-Weather application that shows **real-time weather updates using API**
-
-### 📝 To-Do List App
-A simple **task management web application** built with **JavaScript**
-
-### 📰 News App
-A **news website** that fetches live news using **API integration**
+🔗 Live Demo: https://shoppers-ecommerce-frontend.onrender.com/
 
 ---
+
+### ✅ TaskMe - To-Do App
+A simple and efficient **task management web application** that allows users to **add, delete, and manage daily tasks**.
+
+🔗 Live Demo: https://taskme-app.netlify.app/---
 
 # 🤝 Let's Connect
 
