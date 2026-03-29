@@ -93,6 +93,15 @@ A simple and efficient **task management web application** that allows users to 
 
 🔗 Live Demo: https://taskme-app.netlify.app/
 
+
+### ✅ Django-Blog Website
+
+A full-stack Django blog platform with dynamic content management, user authentication, and production deployment on PythonAnywhere.
+
+🔗 Live Demo: https://sushil.pythonanywhere.com/
+
+
+
 # 🤝 Let's Connect
 
 <div align="center">
