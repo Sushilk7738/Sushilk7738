@@ -88,6 +88,14 @@ Users can browse products, view details, and experience a clean shopping UI.
 
 ---
 
+
+### 🔥 PulseAPI – API Health Monitoring
+A production-ready full-stack app to monitor APIs with real-time status, logs, and alerts.
+Built using Django, React, and PostgreSQL.
+
+🔗 Live Demo: https://pulseapi-ten.vercel.app/
+
+---
 ### ✅ TaskMe - To-Do App
 A simple and efficient **task management web application** that allows users to **add, delete, and manage daily tasks**.
 
@@ -96,7 +104,7 @@ A simple and efficient **task management web application** that allows users to 
 ---
 
 
-### ✅ Django-Blog Website
+### 📝 Django-Blog Website
 
 A full-stack Django blog platform with dynamic content management, user authentication, and production deployment on PythonAnywhere.
 
