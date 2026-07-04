@@ -2,7 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+👋+I'm+Sushil+Kamble!;Python+Backend+Developer;Django+%7C+DRF+%7C+PostgreSQL;Exploring+GenAI+%26+LangChain;Building+AI+Powered+Applications+🚀" />
 </h1>
 
-<h3 align="center">💻 Python Backend Developer | Django REST Framework | GenAI & LangChain Explorer</h3>
+<h3 align="center">
+💻 Python Backend Developer | Django REST Framework | Exploring GenAI & LangChain
+</h3>
 
 <br />
 
@@ -23,17 +25,17 @@
 # 🚀 About Me
 
 * 🔭 Currently building **AI Interview Coach**, an AI-powered interview preparation platform.
-* 🌱 Exploring **Generative AI, LangChain, Large Language Models (LLMs), RAG and AI Applications**.
-* 💻 Passionate about **Backend Engineering, APIs, and AI-powered products**.
-* ⚙️ Experienced with **Django, Django REST Framework, PostgreSQL, JWT Authentication and Docker**.
-* 🚀 Transitioning from Python Backend Development into **AI Engineering and Agentic AI Systems**.
-* 📚 Publicly documenting my GenAI learning journey and projects on GitHub.
+* 🌱 Exploring **Generative AI, LangChain, Large Language Models (LLMs), and AI Applications**.
+* 💻 Passionate about **Backend Engineering, APIs, and scalable web applications**.
+* ⚙️ Experienced with **Django, Django REST Framework, PostgreSQL, JWT Authentication, and Docker**.
+* 🚀 Transitioning from Python Backend Development towards AI-powered applications.
+* 📚 Publicly documenting my learning journey and projects on GitHub.
 
 ---
 
 # 🛠️ Tech Stack
 
-## ⚙️ Backend & APIs
+## ⚙️ Backend
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
@@ -52,14 +54,6 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
-## ⚙️ GenAI & AI Engineering
-
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-4285F4?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-34A853?style=for-the-badge)
-![Embeddings](https://img.shields.io/badge/Embeddings-9C27B0?style=for-the-badge)
-
 ## ⚙️ Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
@@ -70,22 +64,22 @@
 
 ---
 
+# 🎯 Current Focus
+
+* 🤖 Building **AI Interview Coach**
+* 📚 Learning **Generative AI with LangChain**
+* 🧠 Exploring **Large Language Models (LLMs)**
+* ⚙️ Strengthening **Backend Engineering Skills**
+* 🚀 Building projects publicly and documenting the journey
+
+---
+
 # 📊 GitHub Stats
 
 <div align="center">
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sushilk7738\&show_icons=true\&theme=radical\&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushilk7738\&layout=compact\&theme=radical\&hide_border=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sushilk7738\&theme=radical\&hide_border=true) |
 | :--------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Sushilk7738\&theme=radical\&no-frame=true\&row=1\&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -107,7 +101,7 @@
 
 An AI-powered interview preparation platform focused on mock interviews, personalized feedback, and skill assessment using LLMs and Generative AI technologies.
 
-**Tech Stack:** Python • LangChain • LLMs • Prompt Engineering
+**Status:** Currently under development.
 
 ---
 
@@ -149,21 +143,9 @@ A public repository documenting my hands-on journey learning:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sushil-kamble-137585233">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/_sushil_kamble_/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:sushilkamble7738@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Sushilk7738">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sushil-kamble-137585233)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/_sushil_kamble_/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sushilkamble7738@gmail.com)
 
 </div>
 
@@ -180,5 +162,5 @@ A public repository documenting my hands-on journey learning:
 ---
 
 <p align="center">
-✨ Building backend systems today and AI-powered products tomorrow 🚀
+✨ Building backend systems today and AI-powered applications tomorrow 🚀
 </p>
