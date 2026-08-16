@@ -1,22 +1,20 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+👋+I'm+Sushil+Kamble!;Python+Backend+Developer;Django+%7C+DRF+%7C+PostgreSQL;Exploring+GenAI+%26+LangChain;Building+AI+Powered+Applications+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+👋+I'm+Sushil+Kamble!;Full+Stack+Python+Developer;Django+%7C+DRF+%7C+PostgreSQL+%7C+React;Exploring+GenAI+%26+LangChain;Turning+Ideas+Into+Working+APIs+🚀" />
 </h1>
 
 <h3 align="center">
-💻 Python Backend Developer | Django REST Framework | Exploring GenAI & LangChain
+💻 Full Stack Python Developer | Django REST Framework | React.js | Exploring GenAI & LangChain
 </h3>
 
-<br />
-
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Sushilk7738&label=Profile%20views&color=0e75b6&style=flat" height="40px" width="200"/>
+<img src="https://img.shields.io/badge/Open%20to%20Work-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Based%20in-Mumbai%2C%20India-blue?style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Sushilk7738&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </p>
 
 <div align="center">
 
-📧 <b>Email:</b> [sushilkamble7738@gmail.com](mailto:sushilkamble7738@gmail.com)   •  
-📱 <b>Phone:</b> +91 9324685036   •  
-📍 <b>Location:</b> Mumbai, Maharashtra, India
+📧 [sushilkamble7738@gmail.com](mailto:sushilkamble7738@gmail.com)  •  📍 Mumbai, Maharashtra, India  •  🔗 [LinkedIn](https://www.linkedin.com/in/sushil-kamble-137585233)
 
 </div>
 
@@ -24,29 +22,28 @@
 
 # 🚀 About Me
 
-* 🔭 Currently building **AI Interview Coach**, an AI-powered interview preparation platform (actively upgrading).
-* 🌱 Exploring **Generative AI, LangChain, Large Language Models (LLMs), and AI Applications**.
-* 💻 Passionate about **Backend Engineering, APIs, and scalable web applications**.
-* ⚙️ Experienced with **Django, Django REST Framework, PostgreSQL, JWT Authentication, and Docker**.
-* 🚀 Transitioning from Python Backend Development towards AI-powered applications.
-* 📚 Publicly documenting my learning journey and projects on GitHub.
+I'm a self-driven Full Stack Python Developer who learns by shipping — every project below is something I designed, built, debugged, and deployed myself, end to end.
+
+* 🎓 Completed a **Full Stack Python Development** certification — Django, DRF, React.js, REST API design, and PostgreSQL.
+* ⚙️ Comfortable building **RESTful APIs, JWT authentication, and CRUD systems** with Django REST Framework.
+* 🔗 Experienced integrating **React.js frontends with Django backends** for complete full-stack applications.
+* 🤖 Recently built and deployed an **AI-powered app using LangChain + Groq LLM API** — my first step into GenAI application development.
+* 🐳 Familiar with **Docker** for containerized, reproducible dev environments.
+* 🌱 Currently deepening my knowledge of **Generative AI, LangChain, and LLM-based applications**.
+* 📚 Documenting everything publicly here as I go — bugs, fixes, and all.
 
 ---
 
 # 🛠️ Tech Stack
 
-## ⚙️ Backend
-
+## Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django_REST_Framework-red?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## ⚙️ Frontend
-
+## Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -54,8 +51,16 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## ⚙️ Tools & Platforms
+## Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
+## AI / GenAI
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge)
+
+## Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -67,10 +72,9 @@
 # 🎯 Current Focus
 
 * 🤖 Upgrading **AI Interview Coach** with new features
-* 📚 Learning **Generative AI with LangChain**
-* 🧠 Exploring **Large Language Models (LLMs)**
-* ⚙️ Strengthening **Backend Engineering Skills**
-* 🚀 Building projects publicly and documenting the journey
+* 📚 Learning **Generative AI with LangChain** — LLM integrations, embeddings, RAG, agents
+* ⚙️ Strengthening backend fundamentals — query optimization, auth, system design
+* 🎯 Actively applying for **Python / Django / Full Stack Developer** roles
 
 ---
 
@@ -78,8 +82,14 @@
 
 <div align="center">
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sushilk7738&show_icons=true&theme=radical&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushilk7738&layout=compact&theme=radical&hide_border=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sushilk7738&theme=radical&hide_border=true) |
-| :--------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Sushilk7738&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushilk7738&layout=compact&theme=radical&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sushilk7738&theme=radical&hide_border=true" />
 
 </div>
 
@@ -92,6 +102,18 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sushilk7738&theme=radical&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Sushilk7738/Sushilk7738/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+
+</div>
+
+> ⚠️ **Setup needed:** this animation only appears after you add a small GitHub Action to your profile repo. I've included the exact workflow file separately — see the note at the end of this message for the 2-minute setup.
 
 ---
 
@@ -108,54 +130,38 @@
 # 📌 Featured Projects
 
 ### 🤖 AI Interview Coach 🚧 *(Actively Upgrading)*
+Full-stack AI-powered mock interview platform. DRF APIs manage interview roles, questions, sessions, and evaluation, secured with JWT. LangChain + Groq API (Llama 3.3 70B) evaluate transcripts and return structured feedback (score, strengths, weaknesses, recommendations). React (Vite) + Tailwind frontend, containerized with Docker Compose. Core flow is live — actively adding features.
 
-An AI-powered interview preparation platform for mock interviews, personalized feedback, and skill assessment, built with LangChain and the Groq LLM API. Core flow is live — I'm actively adding more features, so expect frequent updates.
-
-**Tech Stack:** Django • DRF • PostgreSQL • JWT • React (Vite) • Tailwind CSS • LangChain • Groq API • Docker
-
-🔗 Live Demo: https://ai-interview-coach-frontend-ivory.vercel.app/
+**Stack:** Django • DRF • PostgreSQL • JWT • React (Vite) • Tailwind • LangChain • Groq API • Docker
+🔗 [Live Demo](https://ai-interview-coach-frontend-ivory.vercel.app/)
 
 ---
 
 ### 🛒 Shoppers — E-Commerce Platform
+Full-stack e-commerce platform with DRF APIs for products, reviews, orders, and shipping. JWT authentication (SimpleJWT), Razorpay payment integration with server-side order creation, and a responsive React (Vite) frontend for browsing, cart, and checkout.
 
-A production-ready full-stack ecommerce platform featuring JWT authentication, payment integration, and PostgreSQL.
-
-**Tech Stack:** Django REST Framework • React (Vite) • PostgreSQL • Razorpay • JWT
-
-🔗 Live Demo: https://shoppers-ecommerce-frontend.onrender.com/
+**Stack:** Django REST Framework • React (Vite) • PostgreSQL • Razorpay • JWT
+🔗 [Live Demo](https://shoppers-ecommerce-frontend.onrender.com/)
 
 ---
 
 ### 🌦️ Weatherly — Weather App
+A lightweight weather lookup app that fetches and displays real-time conditions for any city in a clean, responsive interface.
 
-A lightweight weather lookup app that fetches and displays real-time weather conditions for any city in a clean, responsive interface.
-
-🔗 Live Demo: https://weatherly-frontend.onrender.com/
+🔗 [Live Demo](https://weatherly-frontend.onrender.com/)
 
 ---
 
 ### ✅ TaskMe — Task Management App
+Full CRUD task management in vanilla JavaScript using browser localStorage for persistent, session-independent storage. Live search/filtering, status tracking (Scheduled, In Progress, Canceled, Completed), SweetAlert2 modals, and Moment.js date formatting.
 
-A responsive task management application supporting task prioritization, live filtering, and persistent storage via localStorage.
-
-**Tech Stack:** React • JavaScript • Tailwind CSS
-
-🔗 Live Demo: https://taskme-app.netlify.app/
+**Stack:** HTML5 • CSS3 • JavaScript • Tailwind CSS
+🔗 [Live Demo](https://taskme-app.netlify.app/)
 
 ---
 
 ### 🧠 GenAI with LangChain Journey
-
-A public repository documenting my hands-on journey learning:
-
-* LLM Integrations
-* Chat Models
-* Embeddings
-* Prompt Engineering
-* RAG Pipelines
-* Agents
-* LangGraph (Upcoming)
+Public repo documenting my hands-on journey through LLM integrations, chat models, embeddings, prompt engineering, RAG pipelines, agents, and LangGraph (upcoming).
 
 ---
 
@@ -173,8 +179,6 @@ A public repository documenting my hands-on journey learning:
 
 <div align="center">
 
-### 💬 Developer Quote
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 </div>
@@ -182,5 +186,5 @@ A public repository documenting my hands-on journey learning:
 ---
 
 <p align="center">
-✨ Building backend systems today and AI-powered applications tomorrow 🚀
+✨ Building backend systems today, and AI-powered applications tomorrow 🚀
 </p>
