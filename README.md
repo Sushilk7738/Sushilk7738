@@ -78,33 +78,6 @@ I'm a self-driven Full Stack Python Developer who learns by shipping — every p
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Sushilk7738&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushilk7738&layout=compact&theme=radical&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sushilk7738&theme=radical&hide_border=true" />
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sushilk7738&theme=radical&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 # 🐍 Contribution Snake
 
 <div align="center">
