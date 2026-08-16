@@ -1,22 +1,42 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+👋+I'm+Sushil+Kamble!;Python+Backend+Developer;Django+%7C+DRF+%7C+PostgreSQL;Exploring+GenAI+%26+LangChain;Building+AI+Powered+Applications+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=3500&pause=1000&lines=Hi+👋+I'm+Sushil+Kamble!;Python+Developer;Python+Backend+Developer;Full+Stack+Python+Developer;Django+%7C+DRF+%7C+PostgreSQL;Exploring+GenAI+%26+LangChain;Building+AI-Powered+Applications+🚀" />
 </h1>
 
 <h3 align="center">
-💻 Python Backend Developer | Django REST Framework | Exploring GenAI & LangChain
+💻 Python Developer | Django REST Framework | React | PostgreSQL | Exploring GenAI & LangChain
 </h3>
 
 <br />
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Sushilk7738&label=Profile%20views&color=0e75b6&style=flat" height="40px" width="200"/>
+  <img src="https://komarev.com/ghpvc/?username=Sushilk7738&label=Profile%20Views&color=0e75b6&style=flat" height="40px" width="200"/>
 </p>
 
 <div align="center">
 
-📧 <b>Email:</b> [sushilkamble7738@gmail.com](mailto:sushilkamble7738@gmail.com)   •  
-📱 <b>Phone:</b> +91 9324685036   •  
+📧 <b>Email:</b> <a href="mailto:sushilkamble7738@gmail.com">sushilkamble7738@gmail.com</a>
+&nbsp; • &nbsp;
+📱 <b>Phone:</b> +91 9324685036
+&nbsp; • &nbsp;
 📍 <b>Location:</b> Mumbai, Maharashtra, India
+
+</div>
+
+<br />
+
+<div align="center">
+
+<a href="https://github.com/Sushilk7738">
+  <img src="https://img.shields.io/badge/GitHub-Sushilk7738-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/sushil-kamble-137585233/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:sushilkamble7738@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
@@ -24,12 +44,14 @@
 
 # 🚀 About Me
 
-* 🔭 Currently building **AI Interview Coach**, an AI-powered interview preparation platform.
-* 🌱 Exploring **Generative AI, LangChain, Large Language Models (LLMs), and AI Applications**.
-* 💻 Passionate about **Backend Engineering, APIs, and scalable web applications**.
-* ⚙️ Experienced with **Django, Django REST Framework, PostgreSQL, JWT Authentication, and Docker**.
-* 🚀 Transitioning from Python Backend Development towards AI-powered applications.
-* 📚 Publicly documenting my learning journey and projects on GitHub.
+* 🐍 Aspiring **Python Developer / Python Backend Developer / Full Stack Python Developer**.
+* 💻 Hands-on experience building web applications using **Python, Django, Django REST Framework, React, and PostgreSQL**.
+* ⚙️ Strong interest in **backend development, REST APIs, database design, authentication, and API integration**.
+* 🔐 Experienced with **JWT Authentication and Authorization**.
+* 🐳 Working with **Docker and Docker Compose** for application environments.
+* 🤖 Currently exploring **Generative AI, LLMs, LangChain, Groq API, and Prompt Engineering**.
+* 🧠 Building practical AI-powered applications while strengthening my backend engineering skills.
+* 🚀 Continuously building, deploying, improving, and documenting projects publicly on GitHub.
 
 ---
 
@@ -37,40 +59,59 @@
 
 ## ⚙️ Backend
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django_REST_Framework-red?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![ORM](https://img.shields.io/badge/Django_ORM-092E20?style=for-the-badge)
 
-## ⚙️ Frontend
+## 🗄️ Databases
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## ⚙️ Tools & Platforms
+## ⚛️ Frontend
 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+## 🤖 Generative AI — Currently Learning
+
+![LLMs](https://img.shields.io/badge/LLMs-Learning-6C63FF?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-Learning-1C3C3C?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq_API-000000?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-Basic-FF6F00?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Basics-8E44AD?style=for-the-badge)
+
+## 🧰 Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 # 🎯 Current Focus
 
-* 🤖 Building **AI Interview Coach**
-* 📚 Learning **Generative AI with LangChain**
-* 🧠 Exploring **Large Language Models (LLMs)**
-* ⚙️ Strengthening **Backend Engineering Skills**
-* 🚀 Building projects publicly and documenting the journey
+* 🤖 Improving my **AI Interview Coach** project
+* 🐍 Strengthening **Python Backend Development**
+* ⚙️ Deepening **Django & Django REST Framework**
+* 🗄️ Improving **PostgreSQL & Database Design**
+* 🔌 Building and integrating **REST APIs**
+* ⚛️ Strengthening **React + Backend Integration**
+* 🧠 Learning **Generative AI & LLM Application Development**
+* 🔗 Exploring **LangChain and Groq API**
+* 🚀 Building practical projects and documenting my development journey
 
 ---
 
@@ -78,8 +119,17 @@
 
 <div align="center">
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sushilk7738\&show_icons=true\&theme=radical\&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushilk7738\&layout=compact\&theme=radical\&hide_border=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sushilk7738\&theme=radical\&hide_border=true) |
-| :--------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
+<img src="https://github-readme-stats.vercel.app/api?username=Sushilk7738&show_icons=true&theme=radical&hide_border=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushilk7738&layout=compact&theme=radical&hide_border=true" height="180"/>
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sushilk7738&theme=radical&hide_border=true" />
 
 </div>
 
@@ -89,7 +139,11 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sushilk7738\&bg_color=0d1117\&color=ffffff\&line=00b3ff\&point=f9fafa\&area=true\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/Sushilk7738">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sushilk7738&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true" />
+
+</a>
 
 </div>
 
@@ -97,70 +151,162 @@
 
 # 📌 Featured Projects
 
-### 🤖 AI Interview Coach (In Progress)
+## 🤖 AI Interview Coach
 
-An AI-powered interview preparation platform focused on mock interviews, personalized feedback, and skill assessment using LLMs and Generative AI technologies.
+### Full-Stack AI-Powered Mock Interview Platform
 
-**Status:** Currently under development.
+**Status:** 🟡 **Live • Actively Improving**
 
----
+An AI-powered interview preparation platform designed to conduct mock interviews and generate structured AI-based feedback.
 
-### 🛒 Shoppers Ecommerce Platform
+**Tech Stack:**  
+`Python` `Django` `Django REST Framework` `PostgreSQL` `React` `Tailwind CSS` `JWT` `LangChain` `Groq API` `Docker`
 
-A production-ready full-stack ecommerce platform featuring JWT authentication, payment integration, Docker containerization, and PostgreSQL.
+### ✨ Key Features
 
-**Tech Stack:** Django REST Framework • React • PostgreSQL • Razorpay • Docker • JWT
+* 🔐 JWT-based authentication
+* 👤 Interview role management
+* ❓ Question management
+* 🎤 Interview session workflow
+* 📝 Answer submission
+* 🤖 LLM-powered interview evaluation
+* 📊 Structured feedback and scoring
+* 🗄️ PostgreSQL relational database
+* ⚡ Django ORM query optimization
+* 🐳 Dockerized development environment
 
-🔗 Live Demo: https://shoppers-ecommerce-frontend.onrender.com/
+### 🚧 Current Status
 
----
+The application is **live and functional but not fully feature-complete yet**.
 
-### ✅ TaskMe - Task Management App
+I am actively upgrading the platform with additional features, improving the interview workflow, refining AI evaluation, and enhancing the overall user experience.
 
-A responsive task management application supporting task prioritization and persistent storage.
+### 🌐 Live Demo
 
-**Tech Stack:** React • JavaScript • Tailwind CSS
-
-🔗 Live Demo: https://taskme-app.netlify.app/
-
----
-
-### 🧠 GenAI with LangChain Journey
-
-A public repository documenting my hands-on journey learning:
-
-* LLM Integrations
-* Chat Models
-* Embeddings
-* Prompt Engineering
-* RAG Pipelines
-* Agents
-* LangGraph (Upcoming)
+<a href="https://ai-interview-coach-frontend-ivory.vercel.app/">
+  <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Open%20AI%20Interview%20Coach-00C853?style=for-the-badge" />
+</a>
 
 ---
 
-# 🤝 Let's Connect
+## 🛒 Shoppers Ecommerce Platform
 
-<div align="center">
+### Full-Stack E-Commerce Application
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sushil-kamble-137585233)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/_sushil_kamble_/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sushilkamble7738@gmail.com)
+**Status:** 🟢 **Completed**
 
-</div>
+A full-stack e-commerce application built with Django REST Framework and React.
+
+**Tech Stack:**  
+`Django REST Framework` `React` `PostgreSQL` `JWT` `Razorpay`
+
+### ✨ Key Features
+
+* 🔐 JWT authentication
+* 👤 User registration and login
+* 🛍️ Product management
+* 🛒 Shopping cart
+* 📦 Order management
+* 💳 Razorpay payment integration
+* 🔌 REST API integration
+* ⚛️ Responsive React frontend
+
+### 🌐 Live Demo
+
+<a href="https://shoppers-ecommerce-frontend.onrender.com/">
+  <img src="https://img.shields.io/badge/🛒%20Live%20Demo-Open%20Shoppers-FF9800?style=for-the-badge" />
+</a>
 
 ---
 
-<div align="center">
+## 🌦️ Weatherly
 
-### 💬 Developer Quote
+### Mini Weather Forecast Application
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+**Status:** 🟢 **Completed Mini Project**
 
-</div>
+A lightweight weather application that fetches live weather information based on the user's searched location.
+
+**Tech Stack:**  
+`JavaScript` `HTML5` `CSS3` `Weather API` `REST API`
+
+### ✨ Key Features
+
+* 🌍 Search weather by location
+* 🌤️ Live weather information
+* 🔌 Third-party weather API integration
+* 📱 Responsive interface
+* ⚡ Interactive user experience
+
+### 🌐 Live Demo
+
+<a href="https://weatherly-frontend.onrender.com/">
+  <img src="https://img.shields.io/badge/🌦️%20Live%20Demo-Open%20Weatherly-2196F3?style=for-the-badge" />
+</a>
 
 ---
 
-<p align="center">
-✨ Building backend systems today and AI-powered applications tomorrow 🚀
-</p>
+## ✅ TaskME
+
+### Task Management Web Application
+
+**Status:** 🟢 **Completed Mini Project**
+
+A responsive task management application built using vanilla JavaScript with browser localStorage for persistent data.
+
+**Tech Stack:**  
+`HTML5` `CSS3` `JavaScript` `Tailwind CSS`
+
+### ✨ Key Features
+
+* ➕ Create tasks
+* ✏️ Edit tasks
+* 🗑️ Delete tasks
+* 🔄 Update task status
+* 🔎 Search and filtering
+* 💾 Persistent localStorage
+* 📱 Responsive UI
+
+### 🌐 Live Demo
+
+<a href="https://taskme-app.netlify.app/">
+  <img src="https://img.shields.io/badge/✅%20Live%20Demo-Open%20TaskME-00C853?style=for-the-badge" />
+</a>
+
+---
+
+# 🧠 GenAI & LangChain Learning Journey
+
+I'm currently documenting my hands-on journey into **Generative AI and LLM application development**.
+
+### 📚 Topics I'm Exploring
+
+* 🧠 LLM Fundamentals
+* 💬 Chat Models
+* 🧩 Structured Output
+* 📝 Prompt Templates
+* 🔎 Output Parsers
+* 📄 Document Loaders
+* ✂️ Text Splitters
+* 🔢 Embeddings
+* 🗄️ Vector Databases
+* 🔗 LangChain
+* ⚡ LCEL
+* 📚 Basic RAG
+* 🤖 LLM Application Development
+* 🔌 Groq API
+* ✍️ Prompt Engineering
+
+> 🚧 This is an active learning journey. I'm building practical projects while progressively expanding my understanding of GenAI and LLM technologies.
+
+---
+
+# 💼 What I'm Looking For
+
+I'm currently looking for opportunities as a:
+
+```text
+🐍 Python Developer
+⚙️ Python Backend Developer
+🚀 Full Stack Python Developer
+🌐 Django / Django REST Framework Developer
